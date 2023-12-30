@@ -4,4 +4,4 @@ This website creates a perfect platform to share your thoughts and ideas with an
 2. Viewing other's blogs
 3. Having an editor  
 4. Add images to the blogs
-Make sure to run the npm install command inside the folder to install all the packages.
+  Make sure to run the npm install command inside the folder to install all the packages.
